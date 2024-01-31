@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chidera2468
-- 👀 I’m interested in becoming a better Software Engineer.
-- 🌱 I’m currently learning Software Engineering, learning doesn't finish in programming.
+- 👀 I’m a certified back end engineer.
+- 🌱 I have been trained to do 'hard things', just bring the project.
 - 💞️ I’m looking to collaborate with my fellow engineers.
 - 📫 How to reach me @chidera2468 or chidera2468
 @gmail.com
